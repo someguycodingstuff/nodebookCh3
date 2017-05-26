@@ -1,6 +1,6 @@
 {
 	"author" : "Norm Skinner",
-	"name" : "censorify",
+	"name" : "@someguycoding/censorify",
 	"version": "0.1.1",
 	"description" : "Censors words out of text",
 	"main" : "censortext",
